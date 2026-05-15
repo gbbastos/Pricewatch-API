@@ -213,9 +213,3 @@ pricewatch-api/
 ├── PriceWatch.csproj
 └── README.md
 ```
-
----
-
-## License
-
-MIT © [Gustavo Bastos](https://github.com/gbbastos99)
